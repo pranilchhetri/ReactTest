@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const API_KEY = 'AIzaSyDGfFJ1CybRVDuzt40j6abXaAy81wufubQ';
+
 //create a new component.producing some html
 const App= function(){
     return <div>Hi!</div>;
